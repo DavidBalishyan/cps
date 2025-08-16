@@ -1,0 +1,4 @@
+*.ingore
+**/*.ingore
+a.out
+cps
